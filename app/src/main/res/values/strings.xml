@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="empty_title">There are no contacts</string>
+    <string name="empty_desc">Add people in contact list</string>
+
+    <string name="info_label">Info</string>
+    <string name="first_name_label">Fist Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="e_mail_label">E-Mail</string>
+    <string name="picture_label">Upload Contact Picture</string>
+    <string name="phone_number_hint">Only Numbers</string>
+    <string name="mail_hint">example@mail.com</string>
+
+    <string name="save_contact">SAVE</string>
+    <string name="delete_contact">DELETE</string>
+
+    <string name="sucess">Operation sucessful</string>
+    <string name="fail">Operation failed</string>
+
+    <string name="delete_question">Delete this contact?</string>
+    <string name="delete_answer">Delete</string>
+    <string name="cancel_answer">Cancel</string>
+    
+    <string name="changes_question">You have some unsaved changes</string>
+    <string name="stay">Keep editing</string>
+    <string name="discard">Discard changes</string>
+
+    <string name="call">Make a call</string>
+    <string name="sms">Send message</string>
+    <string name="mail">e-Mail</string>
+
+    <string name="attach_pic">Attach contact picture</string>
+
+    <string name="search_contacts">Search</string>
+    <string name="search_hint">Search Contacts</string>
+</resources>
